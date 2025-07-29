@@ -38,11 +38,9 @@ This Tableau dashboard explores the **average daily screen time** of Indian chil
 
 ## 🔗 View the Interactive Dashboard
 
-[Click here to view on Tableau Public](https://public.tableau.com/app/profile/YOUR_USERNAME/viz/YOUR_DASHBOARD_NAME)
+[Click here to view on Tableau Public]([https://public.tableau.com/app/profile/YOUR_USERNAME/viz/YOUR_DASHBOARD_NAME](https://public.tableau.com/views/AVERAGEDAILYSCREENTIMEOFINDIANKIDS/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
-_(Replace the link with your actual Tableau Public URL)_
 
----
 
 ## 📌 About the Project
 
